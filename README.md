@@ -114,7 +114,7 @@ I'm a passionate **Frontend Engineer** with a love for crafting seamless, intera
 
 ### 🌟 **Projects Showcase**
 
-#### [🔗 Portfolio Website]([https://yourportfolio.com](https://shawon-taupe.vercel.app/)  
+#### [🔗 Portfolio Website](https://shawon-taupe.vercel.app/)  
 Crafted a personal portfolio to showcase projects, skills, and achievements with modern design and animations.
 
 #### [🛒 E-Commerce Platform](https://github.com/username/ecommerce-project)  
