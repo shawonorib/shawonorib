@@ -27,19 +27,34 @@
 
 ### 🛠️ **Tech Stack & Skills**
 
+<div align="center">
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
 #### **Frontend Development**
-- **Frameworks & Libraries:** React.js, Next.js, Svelte
-- **Styling:** TailwindCSS, Material-UI, SCSS/SASS, Bootstrap
+- **Frameworks & Libraries:** React.js, Next.js, Svelte  
+- **Styling:** TailwindCSS, Material-UI, SCSS/SASS, Bootstrap  
 - **Interactive Design:** Framer Motion, GSAP, Lottie Animations  
-
-#### **Backend Development**
-- **Frameworks:** Node.js, Express.js
-- **Database:** MongoDB, PostgreSQL, MySQL, Firebase  
-
+      
 #### **Fullstack Workflow**
 - RESTful APIs | GraphQL APIs  
 - Authentication & Authorization (JWT, OAuth)  
 - WebSockets & Real-time Communication  
+
+#### **Other Cool Skills**
+- Progressive Web Apps (PWA) Development  
+- Responsive Design & Cross-Browser Compatibility  
+- Test-Driven Development (Jest, Cypress)  
+- Agile & Scrum Methodologies  
+
+    </td>
+    <td valign="top" width="50%">
+      
+#### **Backend Development**
+- **Frameworks:** Node.js, Express.js  
+- **Database:** MongoDB, PostgreSQL, MySQL, Firebase  
 
 #### **DevOps & Deployment**
 - **Platforms:** Netlify, Vercel, Heroku, AWS S3  
@@ -48,13 +63,18 @@
 #### **Tools & Utilities**
 - VS Code, Postman, Figma, Webpack, Vite  
 
-#### **Other Cool Skills**
-- Progressive Web Apps (PWA) Development  
-- Responsive Design & Cross-Browser Compatibility  
-- Test-Driven Development (Jest, Cypress)  
-- Agile & Scrum Methodologies  
+#### **Performance Optimization**
+- Lazy Loading & Code Splitting  
+- Asset Minification & CDN Integration  
+
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
+
 
 ### ✨ **About Me**
 
