@@ -114,7 +114,7 @@ I'm a passionate **Frontend Engineer** with a love for crafting seamless, intera
 
 ### 🌟 **Projects Showcase**
 
-#### [🔗 Portfolio Website](https://yourportfolio.com)  
+#### [🔗 Portfolio Website]([https://yourportfolio.com](https://shawon-taupe.vercel.app/)  
 Crafted a personal portfolio to showcase projects, skills, and achievements with modern design and animations.
 
 #### [🛒 E-Commerce Platform](https://github.com/username/ecommerce-project)  
@@ -131,7 +131,7 @@ Check out more on my [GitHub Repositories](https://github.com/shawonorib)!
 
 💌 I’m currently **open to freelance, contract, and full-time opportunities** (remote or onsite).  
 📩 Drop me an email at: [ShawonOrib](mailto:shawonorib@gmail.com)  
-🌐 Explore my work: [yourportfolio.com](https://yourportfolio.com)  
+🌐 Explore my work: [Shawon | Web Developer](https://shawon-taupe.vercel.app/)  
 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/shawon-orib/)  
 
 ---
