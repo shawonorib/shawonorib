@@ -1,18 +1,18 @@
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1643514595/23132/laptop_parrot.gif?1643514595" width="30"/> 
-  Hello! I'm **[Your Name]**  
+  Hello! I'm **[Shawon Orib]**  
 </h1>
 
 <h3 align="center">🚀 Passionate Frontend Engineer | Fullstack Developer | Code Craftsman 🚀</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
 ---
@@ -86,16 +86,16 @@ Developed a feature-rich e-commerce platform with real-time updates and a secure
 #### [💡 Productivity App](https://github.com/username/productivity-app)  
 Built a productivity tool with task tracking, Kanban boards, and calendar integrations.  
 
-Check out more on my [GitHub Repositories](https://github.com/username)!  
+Check out more on my [GitHub Repositories](https://github.com/shawonorib)!  
 
 ---
 
 ### 📬 **Let's Collaborate!**
 
 💌 I’m currently **open to freelance, contract, and full-time opportunities** (remote or onsite).  
-📩 Drop me an email at: [your.email@example.com](mailto:your.email@example.com)  
+📩 Drop me an email at: [your.email@example.com](mailto:shawonorib@gmail.com)  
 🌐 Explore my work: [yourportfolio.com](https://yourportfolio.com)  
-💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/)  
+💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/shawonorib/)  
 
 ---
 
