@@ -34,7 +34,7 @@
     <td valign="top" width="50%">
       
 #### **Frontend Development**
-- **Frameworks & Libraries:** React.js, Next.js, Svelte  
+- **Frameworks & Libraries:** React.js, Three.js, Next.js, Svelte  
 - **Styling:** TailwindCSS, Material-UI, SCSS/SASS, Bootstrap  
 - **Interactive Design:** Framer Motion, GSAP, Lottie Animations  
       
