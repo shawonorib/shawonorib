@@ -130,9 +130,9 @@ Check out more on my [GitHub Repositories](https://github.com/shawonorib)!
 ### 📬 **Let's Collaborate!**
 
 💌 I’m currently **open to freelance, contract, and full-time opportunities** (remote or onsite).  
-📩 Drop me an email at: [your.email@example.com](mailto:shawonorib@gmail.com)  
+📩 Drop me an email at: [ShawonOrib](mailto:shawonorib@gmail.com)  
 🌐 Explore my work: [yourportfolio.com](https://yourportfolio.com)  
-💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/shawonorib/)  
+💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/shawon-orib/)  
 
 ---
 
