@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1643514595/23132/laptop_parrot.gif?1643514595" width="30"/> 
-  Hello! I'm <i>**Shawon Orib**</i>
+  Hello! I'm <i>Shawon Orib</i>
 </h1>
 
 <h3 align="center">🚀 Passionate Frontend Engineer | Fullstack Developer | Code Craftsman 🚀</h3>
