@@ -88,17 +88,17 @@ I'm a passionate **Frontend Engineer** with a love for crafting seamless, intera
 
 ### 💡 **What I Can Do for You**
 
-- **Interactive Web Applications:**    
-- **Modern UI/UX Design:**  
-- **Frontend Excellence:**  
-- **Backend Development:**  
-- **Performance Optimization:**  
-- **SEO Services:**  
-- **Page Speed Optimization:**  
-- **Responsiveness Across Devices:**  
-- **Cross-Browser Compatibility:**  
-- **Custom Animations:**  
-- **Accessibility & Usability:**  
+- **Interactive Web Applications**    
+- **Modern UI/UX Design**  
+- **Frontend Excellence**  
+- **Backend Development**  
+- **Performance Optimization**  
+- **SEO Services**  
+- **Page Speed Optimization**  
+- **Responsiveness Across Devices**  
+- **Cross-Browser Compatibility**  
+- **Custom Animations**  
+- **Accessibility & Usability**  
 
 ---
 
