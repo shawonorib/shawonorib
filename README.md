@@ -88,39 +88,17 @@ I'm a passionate **Frontend Engineer** with a love for crafting seamless, intera
 
 ### 💡 **What I Can Do for You**
 
-- **Interactive Web Applications:**  
-  Creating seamless, user-focused applications tailored to your needs, whether for small businesses or enterprise-grade solutions.  
-
+- **Interactive Web Applications:**    
 - **Modern UI/UX Design:**  
-  Designing beautiful, functional, and responsive interfaces that prioritize the user experience with tools like **Figma**, **Framer**, and advanced **CSS animations**.  
-
 - **Frontend Excellence:**  
-  Leveraging cutting-edge frameworks like **React.js**, **Next.js**, **Svelte**, and **TailwindCSS** to craft high-performing and scalable interfaces.  
-
 - **Backend Development:**  
-  Building robust and secure APIs, managing complex databases, and integrating with third-party services using technologies like **Node.js**, **Express.js**, and **MongoDB**.  
-
 - **Performance Optimization:**  
-  Ensuring your website is **lightning-fast** with techniques like lazy loading, code splitting, and minification to reduce load times and enhance user experience.  
-
 - **SEO Services:**  
-  Implementing best practices for **Search Engine Optimization (SEO)**, including semantic HTML, metadata optimization, and structured data for better visibility.  
-
 - **Page Speed Optimization:**  
-  Guaranteeing pages load under 2 seconds by optimizing assets, implementing CDN solutions, and reducing unnecessary payloads.  
-
 - **Responsiveness Across Devices:**  
-  Designing websites and applications that look stunning and function flawlessly on **desktops**, **tablets**, and **smartphones**.  
-
 - **Cross-Browser Compatibility:**  
-  Ensuring your website works consistently across all modern browsers, including **Chrome**, **Firefox**, **Safari**, and **Edge**.  
-
 - **Custom Animations:**  
-  Enhancing user engagement with modern animations using **GSAP**, **Three.js**, and **Lottie**.  
-
 - **Accessibility & Usability:**  
-  Following **WCAG standards** to create accessible websites that cater to all users, including those with disabilities.  
-
 
 ---
 
