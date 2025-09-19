@@ -129,8 +129,9 @@ Check out more on my [GitHub Repositories](https://github.com/shawonorib)!
 
 💌 I’m currently **open to freelance, contract, and full-time opportunities** (remote or onsite).  
 📩 Drop me an email at: [ShawonOrib](mailto:shawonorib@gmail.com)  
-🌐 Explore my work: [Shawon | Web Developer](https://shawon-taupe.vercel.app/)  
-💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/shawon-orib/)  
+🌐 Explore my work: [Shawon | Web Developer](https://shawonn.com/)  
+💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/shawon-orib/)
+
 
 ---
 
