@@ -119,15 +119,6 @@ I'm a passionate **Frontend Engineer** with a love for crafting seamless, intera
 
 ---
 
-### 🌌 Dynamic Visuals
-
-<p align="center">
-  <!-- Animated contribution graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawonorib&theme=react-dark&bg_color=0d1117&hide_border=true" />
-</p>
-
----
-
 ### 🌟 **Projects Showcase**
 
 #### [🔗 Portfolio Website](https://shawon-taupe.vercel.app/)  
@@ -159,3 +150,12 @@ Check out more on my [GitHub Repositories](https://github.com/shawonorib)!
 - I’m a big fan of **science fiction movies** and **problem-solving games**.  
 
 Let’s create something amazing together! 🚀✨
+
+---
+
+### 🌌 Dynamic Visuals
+
+<p align="center">
+  <!-- Animated contribution graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawonorib&theme=react-dark&bg_color=0d1117&hide_border=true" />
+</p>
