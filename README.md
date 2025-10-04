@@ -106,7 +106,25 @@ I'm a passionate **Frontend Engineer** with a love for crafting seamless, intera
 
 - ⭐ **Developed a high-traffic e-commerce platform** using MERN Stack, achieving a 35% increase in user retention.  
 - ⭐ **Redesigned a legacy system** for a client, resulting in 50% faster load times.  
-- ⭐ Collaborated on an **open-source project**, gaining recognition from the community.  
+- ⭐ Collaborated on an **open-source project**, gaining recognition from the community.
+
+---
+
+### 📡 Live Metrics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shawonorib&theme=neon-dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shawonorib&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+### 🌌 Dynamic Visuals
+
+<p align="center">
+  <!-- Animated contribution graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawonorib&theme=react-dark&bg_color=0d1117&hide_border=true" />
+</p>
 
 ---
 
