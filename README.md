@@ -100,6 +100,15 @@ I'm a passionate **Frontend Engineer** with a love for crafting seamless, intera
 #### [🔗 Portfolio Website](https://shawonme.vercel.app/)  
 Crafted a personal portfolio to showcase projects, skills, and achievements with modern design and animations.
 
+#### [🌳 Plantex](https://shawonorib.github.io/plantex/)  
+Plants is a responsive website built with HTML, CSS, and JavaScript, designed to showcase a variety of plants, gardening tips, and care guides. Featuring a clean layout, smooth animations, and interactive features, it offers a seamless experience across devices. Plants combines aesthetics to inspire plant enthusiasts and promote green living.
+
+#### [✈️ Travel](https://shawonorib.github.io/travel/)  
+"Travel is a responsive website built with HTML, CSS, and JavaScript, designed to showcase destinations, itineraries, and travel packages. Featuring a modern layout, smooth animations, and interactive booking options, it provides a seamless experience across devices. Travel combines functionality and style, making trip planning simple and enjoyable."
+
+#### [✂️ BarbarShop](https://shawonorib.github.io/barbarshop/)  
+"Barbar is a responsive barbershop website built with HTML, CSS, and JavaScript. It offers a stylish design showcasing services, Features, and testimonials, with features like an interactive booking system and location map. Optimized for all devices, Barbar delivers a seamless user experience, combining modern aesthetics with functionality to reflect your brand."
+
 #### [🛒 E-Commerce Platform](https://github.com/username/ecommerce-project)  
 Developed a feature-rich e-commerce platform with real-time updates and a secure payment gateway.
 
