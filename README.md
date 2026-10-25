@@ -86,30 +86,6 @@ I'm a passionate **Frontend Engineer** with a love for crafting seamless, intera
 
 ---
 
-### 💡 **What I Can Do for You**
-
-- **Interactive Web Applications**    
-- **Modern UI/UX Design**  
-- **Frontend Excellence**  
-- **Backend Development**  
-- **Performance Optimization**  
-- **SEO Services**  
-- **Page Speed Optimization**  
-- **Responsiveness Across Devices**  
-- **Cross-Browser Compatibility**  
-- **Custom Animations**  
-- **Accessibility & Usability**  
-
----
-
-### 📈 **Key Achievements**
-
-- ⭐ **Developed a high-traffic e-commerce platform** using MERN Stack, achieving a 35% increase in user retention.  
-- ⭐ **Redesigned a legacy system** for a client, resulting in 50% faster load times.  
-- ⭐ Collaborated on an **open-source project**, gaining recognition from the community.
-
----
-
 ### 📡 Live Metrics
 
 <p align="center">
@@ -121,7 +97,7 @@ I'm a passionate **Frontend Engineer** with a love for crafting seamless, intera
 
 ### 🌟 **Projects Showcase**
 
-#### [🔗 Portfolio Website](https://shawon-taupe.vercel.app/)  
+#### [🔗 Portfolio Website](https://shawonme.vercel.app/)  
 Crafted a personal portfolio to showcase projects, skills, and achievements with modern design and animations.
 
 #### [🛒 E-Commerce Platform](https://github.com/username/ecommerce-project)  
@@ -138,8 +114,8 @@ Check out more on my [GitHub Repositories](https://github.com/shawonorib)!
 
 💌 I’m currently **open to freelance, contract, and full-time opportunities** (remote or onsite).  
 📩 Drop me an email at: [ShawonOrib](mailto:shawonorib@gmail.com)  
-🌐 Explore my work: [Shawon | Web Developer](https://shawonn.com/)  
-💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/shawon-orib/)
+🌐 Explore my work: [Shawon | Web Developer](https://shawonme.vercel.app/)  
+💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/shawonorib/)
 
 
 ---
@@ -150,12 +126,3 @@ Check out more on my [GitHub Repositories](https://github.com/shawonorib)!
 - I’m a big fan of **science fiction movies** and **problem-solving games**.  
 
 Let’s create something amazing together! 🚀✨
-
----
-
-### 🌌 Dynamic Visuals
-
-<p align="center">
-  <!-- Animated contribution graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawonorib&theme=react-dark&bg_color=0d1117&hide_border=true" />
-</p>
