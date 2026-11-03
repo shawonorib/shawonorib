@@ -110,10 +110,10 @@ Plants is a responsive website built with HTML, CSS, and JavaScript, designed to
 "Barbar is a responsive barbershop website built with HTML, CSS, and JavaScript. It offers a stylish design showcasing services, Features, and testimonials, with features like an interactive booking system and location map. Optimized for all devices, Barbar delivers a seamless user experience, combining modern aesthetics with functionality to reflect your brand."
 
 #### [🛒 E-Commerce Platform](https://github.com/shawonorib/Maison_e-commerce-platform)  
-Developed a feature-rich e-commerce platform with real-time updates and a secure payment gateway.
+Maison is a modern marketplace storefront (E-Commerce Website) built with React, TypeScript, and Vite. It uses Supabase for its product catalog, inventory, and guest orders.
 
 #### [💡 Productivity App](https://github.com/shawonorib/flowboard-planner)  
-Built a productivity tool with task tracking, Kanban boards, and calendar integrations.  
+Flowdesk is a lightweight task planner for organizing work in a task list, a Kanban board, and a monthly calendar. Set priorities and due dates, move tasks through their workflow, and export dated tasks for use in calendar apps.  
 
 Check out more on my [GitHub Repositories](https://github.com/shawonorib)!  
 
